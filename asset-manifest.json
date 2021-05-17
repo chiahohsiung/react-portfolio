@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.d25725d0.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e399d91e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e399d91e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.68f13f44.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.68f13f44.js.map",
+    "static/js/2.efdeaa38.chunk.js": "/react-portfolio/static/js/2.efdeaa38.chunk.js",
+    "static/js/2.efdeaa38.chunk.js.map": "/react-portfolio/static/js/2.efdeaa38.chunk.js.map",
+    "static/js/3.0853456f.chunk.js": "/react-portfolio/static/js/3.0853456f.chunk.js",
+    "static/js/3.0853456f.chunk.js.map": "/react-portfolio/static/js/3.0853456f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.d25725d0.chunk.css.map": "/react-portfolio/static/css/main.d25725d0.chunk.css.map",
+    "static/js/2.efdeaa38.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.efdeaa38.chunk.js.LICENSE.txt",
+    "static/media/4_legged_robot.82adfd3a.jpg": "/react-portfolio/static/media/4_legged_robot.82adfd3a.jpg",
+    "static/media/chiaho3.832f4068.jpg": "/react-portfolio/static/media/chiaho3.832f4068.jpg",
+    "static/media/close-icon.9beab5af.svg": "/react-portfolio/static/media/close-icon.9beab5af.svg",
+    "static/media/ea.0c73204c.png": "/react-portfolio/static/media/ea.0c73204c.png",
+    "static/media/face-recognition.e5bc059f.png": "/react-portfolio/static/media/face-recognition.e5bc059f.png",
+    "static/media/face-recognition_2.24a061e4.png": "/react-portfolio/static/media/face-recognition_2.24a061e4.png",
+    "static/media/graphql.cb96f301.png": "/react-portfolio/static/media/graphql.cb96f301.png",
+    "static/media/styles.css": "/react-portfolio/static/media/mass_based_best_pink.c6dddd94.gif",
+    "static/media/model.53e0e491.png": "/react-portfolio/static/media/model.53e0e491.png",
+    "static/media/model_and_spec.633459cb.png": "/react-portfolio/static/media/model_and_spec.633459cb.png",
+    "static/media/musicApp2.bfef898d.png": "/react-portfolio/static/media/musicApp2.bfef898d.png",
+    "static/media/nodejs.30ca82b0.png": "/react-portfolio/static/media/nodejs.30ca82b0.png",
+    "static/media/python.f22d1fce.png": "/react-portfolio/static/media/python.f22d1fce.png",
+    "static/media/pytorch.2aaa7627.png": "/react-portfolio/static/media/pytorch.2aaa7627.png",
+    "static/media/react3.1aac9c74.png": "/react-portfolio/static/media/react3.1aac9c74.png",
+    "static/media/redux.b3b939c6.png": "/react-portfolio/static/media/redux.b3b939c6.png",
+    "static/media/tensorflow.0a8b8826.png": "/react-portfolio/static/media/tensorflow.0a8b8826.png",
+    "static/media/ts.a93c689e.png": "/react-portfolio/static/media/ts.a93c689e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68f13f44.js",
+    "static/js/2.efdeaa38.chunk.js",
+    "static/css/main.d25725d0.chunk.css",
+    "static/js/main.e399d91e.chunk.js"
+  ]
+}
